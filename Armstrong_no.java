@@ -1,5 +1,5 @@
 //Program to calculate the Armstrong number
-//(1**3)+(5**3)+(3**3)=153 //
+//(1**3)+(5**3)+(3**3)=153
 import java.util.Scanner;
 
 public class Armstrong_no {
